@@ -1,0 +1,35 @@
+pseudo_id,gender,age,year_of_birth,cohort,allergie_allergy_description,allergie_allergy_severity,allergie_allergy_start_date,allergie_allergy_end_date,bmi_measurement_description,bmi_measurement_test_value_numeric,bmi_measurement_test_value_unit,bmi_measurement_start_date,demographics_demographic_gender,demographics_demographic_age,demographics_demographic_year_of_birth,admissions_collection_count
+0EDC7960-5EBA-0A56-A5B6-F051A9653DC7,M,27,1993,Included,,,,,Body mass index (BMI) [Percentile] Per age and gender,14.8,%,2012-11-04 14:24:43,M,27,,14
+0EDD0E89-C27C-C7F9-9863-ED01851DC0C3,F,72,1947,Included,,,,,,,,,F,72,,100
+0EDE9CC8-DF3E-98A3-FC6E-4560AE01C107,F,36,1985,Included,,,,,,,,,F,36,,46
+0EDEFBCE-E504-F6BF-FE9A-678E5DD112AC,F,55,1965,Included,,,,,,,,,F,55,,23
+0EDF426D-E0CA-8ADF-757F-CBB2A289EC04,M,55,1965,Included,,,,,,,,,M,55,,100
+0EE0EBD5-6440-4391-AFD2-8B430E55FB91,M,56,1929,Included,Amoxiciline,Anamnestisch,2015-05-06 08:40:02,,,,,,M,56,,100
+0EE760FB-399B-C1B6-4313-03E70E181E5C,F,38,1982,Included,,,,,,,,,F,38,,39
+0EE7A2BF-9221-6754-A1A9-B6B3C260300A,M,104,1917,Included,,,,,,,,,M,104,,100
+0EE829FA-2118-DA50-3B78-B8F428A40727,F,47,1973,Included,DICLOFENAMIDE,Ernstig,2014-06-21 03:03:02,,,,,,F,47,,37
+0EE90F4B-61CC-4805-5001-3D76370B7934,M,72,1948,Included,,,,,,,,,M,72,,30
+0EEBD503-B7CB-1F68-FF58-2EA163FE7FA4,F,50,1970,Included,DICLOFENAMIDE,Ernstig,2017-09-16 10:54:32,,,,,,F,50,,45
+0EED3366-AAA0-11BB-7C27-3C7F2C7999D6,F,16,1919,Included,Amoxiciline,Anamnestisch,2014-04-26 11:26:58,,Body mass index (BMI) [Percentile] Per age and gender,35.6,%,1935-08-21 19:29:15,F,16,,21
+0EED6963-02B2-F3D9-FDAD-A658C79AC374,M,27,1994,Included,DICLOFENAMIDE,Ernstig,2011-04-20 23:33:59,,Body mass index (BMI) [Percentile] Per age and gender,43.8,%,2013-07-05 11:13:04,M,27,,36
+0EEE3DB6-8991-99C8-A900-8C005ED21492,M,63,1931,Included,,,,,,,,,M,63,,53
+0EEEBBF9-BCC1-4031-C28E-5F89845F3E05,M,51,1970,Included,,,,,,,,,M,51,,100
+0EF072D7-9483-74B3-E813-3445F7EA5131,F,64,1956,Included,,,,,,,,,F,64,,23
+0EF12DF6-49AF-BC75-ECA3-2A47738C02DC,F,39,1981,Included,Amoxiciline,Anamnestisch,2017-05-10 17:39:15,,,,,,F,39,,31
+0EF2010C-865A-1E5D-7B78-84032C20994F,M,71,1949,Included,DICLOFENAMIDE,Ernstig,2014-07-03 18:59:45,,,,,,M,71,,100
+0EF3DED4-6060-952C-0D71-FE987B0F275C,M,54,1966,Included,Amoxiciline,Anamnestisch,2017-10-26 11:02:09,,,,,,M,54,,56
+0EF400FE-4C9B-5B52-35CC-A364787936FC,F,60,1960,Included,Amoxiciline,Anamnestisch,2019-06-05 09:10:48,,,,,,F,60,,24
+0EF7CEB5-8B32-A7C2-C5CF-50D440BA175C,F,10,2010,Included,Amoxiciline,Anamnestisch,2013-07-27 07:34:49,,Body mass index (BMI) [Percentile] Per age and gender,80.3,%,2020-12-14 13:57:58,F,10,,35
+0EFC429C-7941-3B24-18BD-C3A518504375,M,52,1936,Included,,,,,,,,,M,52,,31
+0EFD5F2A-FBB9-64A1-9633-B42CAE5010E4,F,32,1989,Included,,,,,,,,,F,32,,46
+0F009732-C6C8-A216-0EDE-EB330BE4FC72,M,31,1990,Included,,,,,,,,,M,31,,21
+0F081447-7521-FFB8-2080-48AACA05C5F5,F,55,1965,Included,,,,,,,,,F,55,,28
+0F091EF3-1086-91C7-F375-780A794A3185,F,9,2011,Included,,,,,Body mass index (BMI) [Percentile] Per age and gender,48.1,%,2020-08-06 03:56:28,F,9,,29
+0F0B78B3-ACD5-63F7-8A9A-796DF7C7B339,M,55,1965,Included,DICLOFENAMIDE,Ernstig,2019-06-22 08:03:55,,,,,,M,55,,69
+0F0E322B-4441-379E-FC6C-7D6216DF786F,M,28,1992,Included,Amoxiciline,Anamnestisch,2019-11-18 20:04:45,,Body mass index (BMI) [Percentile] Per age and gender,86.3,%,2011-12-08 04:41:02,M,28,,27
+0F0EC12B-B219-19AF-88D9-6EF28A0D84E6,M,35,1985,Included,Amoxiciline,Anamnestisch,2019-01-01 19:18:59,,,,,,M,35,,13
+0F0F2261-B31B-4A3C-6E64-39D62072BFBC,M,55,1965,Included,DICLOFENAMIDE,Ernstig,2018-07-11 20:37:01,,,,,,M,55,,25
+0F11A582-03BA-C249-FE3C-E5046D499E38,F,82,1938,Included,,,,,,,,,F,82,,100
+0F11EE4A-9C23-8AEA-F3B9-88B4FCA1520F,F,17,2003,Included,Amoxiciline,Anamnestisch,2014-09-19 03:48:05,,Body mass index (BMI) [Percentile] Per age and gender,36.5,%,2020-12-16 12:28:41,F,17,,28
+0F1362B0-B679-274E-3189-F3C984EE1232,M,55,1951,Included,DICLOFENAMIDE,Ernstig,2012-10-25 13:51:57,,,,,,M,55,,62
+0F1516BC-68E7-1049-D2D8-BAE76C9D36F9,F,17,2003,Included,,,,,Body mass index (BMI) [Percentile] Per age and gender,72.0,%,2020-02-07 17:27:36,F,17,,20

@@ -1,0 +1,7 @@
+numpy==1.19.2
+nest-asyncio==1.5.1
+notebook
+pandas
+tensorflow
+tensorflow-federated
+git+git://github.com/OpenMined/PySyft@dev#egg=syft
